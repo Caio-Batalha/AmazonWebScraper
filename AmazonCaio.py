@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import os
 
-project_name = "my_project"
+
 full_path = os.path.join("/Users/caiobatalha", 'AmazonCaio.py')
 print(full_path)
 
